@@ -40,4 +40,4 @@ word2vec.py trains the word_vector based on gensim
 # You can see details in our ppt
 
 # Next step
-We plan to add rhyme function
+We plan to add rhyme function(done)
