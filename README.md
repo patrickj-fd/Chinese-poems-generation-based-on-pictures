@@ -39,7 +39,6 @@ word2vec.py trains the word_vector based on gensim
 
 流鸟莽冥华，四史瞩松云。
 浮高树下溪，便合落冥冈。
-
-
+# You can see details in our ppt
 # Next step
 We plan to add rhyme function
