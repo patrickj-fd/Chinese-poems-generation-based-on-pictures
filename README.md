@@ -7,6 +7,8 @@ https://disk.pku.edu.cn:443/link/A54728C8E322E8F1E3F59235F44BDF4A
 
 # Thanks for zizhizhou and chinch17 's cooperation. (both good teammates)
 
+# Our website: http://poem.boater.cn
+
 # We will introduce the use of each PY
 cifar100vgg.py is used to process image files and get related labels. The label will then correspond to key words to generate poems.
 
