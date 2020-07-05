@@ -1,5 +1,7 @@
 # Chinese-poems-generation-based-on-pictures
 Generation of five character ancient poetry based on given pictures(基于图片生成五言古诗)
+思路设计：
+> https://blog.csdn.net/weixin_44699048/article/details/106455039
 
 You also need to put the following linked files in the same directory(还需把如下链接的文件放入同一个目录下)：
 https://disk.pku.edu.cn:443/link/A54728C8E322E8F1E3F59235F44BDF4A
